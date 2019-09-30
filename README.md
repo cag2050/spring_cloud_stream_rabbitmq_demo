@@ -23,7 +23,7 @@ http://localhost:15672
 2. 进入队列的管理页面，通过 Publish Message 功能来发送一条消息到该队列中，填写"hello"，点击"Publish Message"按钮
 3. 可以在当前启动的Spring Boot应用程序的控制台中看到类似下面的内容：
 ```2019-09-30 15:06:02.642  INFO 74347 --- [2YEzu-Mx_Zyg-21] eceiver$$EnhancerBySpringCGLIB$$50b57463 : Received: hello```
-:q:
+
 ### 参考：
 参考资料 | 网址
 --- | ---
